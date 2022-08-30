@@ -74,7 +74,6 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 
  
   <hr>
